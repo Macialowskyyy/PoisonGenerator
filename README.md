@@ -3,4 +3,6 @@ Zaawansowany system generowania kamienia! / Advanced stone generation system!
 
 # Możliwości oraz funkcje
 
-**- Możliwość ulepszania generatorów**
+**- Ulepszanie generatorów** 
+**- Wybieranie rodzai materiałów**
+**- Samodzielne naprawianie generatorów**
